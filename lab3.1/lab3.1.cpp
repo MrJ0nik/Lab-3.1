@@ -19,6 +19,7 @@ int main()
 	A = (4*x-1);
 	if (A < 0)
 		A = A * (-1);
+	cout << A << endl;
 
 
 
@@ -26,7 +27,7 @@ int main()
 	if (x < 0)
 		B = (pow(x, 7)) - 2 * x;
 	if (0 <= x && x <= 1)
-		B = std::atan((pow(e, x)) + 1);
+		B = std::atan(((pow(e, x)) + 1)/8);
 	if (x > 1)
 		B = (pow(x, 4)) +pow(e , std::pow(x, 2) + 3); 
 	y = A + B;
@@ -36,7 +37,7 @@ int main()
 	if (x < 0)
 		B = pow(x, 7) - 2 * x;
 	else if (0 <= x && x <= 1)
-		B = std::atan(pow(e, x) + 1);
+		B = std::atan((pow(e, x) + 1)/8);
 	else if (x > 1)
 		B = pow(x, 4) + pow(e, pow(x, 2) + 3);
 	y = A + B;

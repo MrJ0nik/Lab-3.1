@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sun4u\\source\\repos\\lab3.1\\",
+  "WorkspaceRootPath": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u043B\u0430\u0431 3.0\\3.1\\lab3.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1274EA0-0461-426A-9F1F-0563B0C542CC}|lab3.1\\lab3.1.vcxproj|C:\\Users\\sun4u\\source\\repos\\lab3.1\\lab3.1\\lab3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A1274EA0-0461-426A-9F1F-0563B0C542CC}|lab3.1\\lab3.1.vcxproj|C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u043B\u0430\u0431 3.0\\3.1\\lab3.1\\lab3.1\\lab3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1274EA0-0461-426A-9F1F-0563B0C542CC}|lab3.1\\lab3.1.vcxproj|solutionrelative:lab3.1\\lab3.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab3.1.cpp",
-              "DocumentMoniker": "C:\\Users\\sun4u\\source\\repos\\lab3.1\\lab3.1\\lab3.1.cpp",
+              "DocumentMoniker": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u043B\u0430\u0431 3.0\\3.1\\lab3.1\\lab3.1\\lab3.1.cpp",
               "RelativeDocumentMoniker": "lab3.1\\lab3.1.cpp",
-              "ToolTip": "C:\\Users\\sun4u\\source\\repos\\lab3.1\\lab3.1\\lab3.1.cpp*",
-              "RelativeToolTip": "lab3.1\\lab3.1.cpp*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswCgAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sun4u\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u0410\u041F\\\u043B\u0430\u0431 3.0\\3.1\\lab3.1\\lab3.1\\lab3.1.cpp",
+              "RelativeToolTip": "lab3.1\\lab3.1.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwBUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-15T09:48:10.614Z",
               "EditorCaption": ""
